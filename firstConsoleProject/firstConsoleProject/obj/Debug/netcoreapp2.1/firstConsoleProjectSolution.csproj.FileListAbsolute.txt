@@ -1,0 +1,11 @@
+/Users/npetersen/Documents/c#/firstConsoleProject/firstConsoleProject/bin/Debug/netcoreapp2.1/firstConsoleProjectSolution.deps.json
+/Users/npetersen/Documents/c#/firstConsoleProject/firstConsoleProject/bin/Debug/netcoreapp2.1/firstConsoleProjectSolution.runtimeconfig.json
+/Users/npetersen/Documents/c#/firstConsoleProject/firstConsoleProject/bin/Debug/netcoreapp2.1/firstConsoleProjectSolution.runtimeconfig.dev.json
+/Users/npetersen/Documents/c#/firstConsoleProject/firstConsoleProject/bin/Debug/netcoreapp2.1/firstConsoleProjectSolution.dll
+/Users/npetersen/Documents/c#/firstConsoleProject/firstConsoleProject/bin/Debug/netcoreapp2.1/firstConsoleProjectSolution.pdb
+/Users/npetersen/Documents/c#/firstConsoleProject/firstConsoleProject/obj/Debug/netcoreapp2.1/firstConsoleProjectSolution.csprojAssemblyReference.cache
+/Users/npetersen/Documents/c#/firstConsoleProject/firstConsoleProject/obj/Debug/netcoreapp2.1/firstConsoleProjectSolution.csproj.CoreCompileInputs.cache
+/Users/npetersen/Documents/c#/firstConsoleProject/firstConsoleProject/obj/Debug/netcoreapp2.1/firstConsoleProjectSolution.AssemblyInfoInputs.cache
+/Users/npetersen/Documents/c#/firstConsoleProject/firstConsoleProject/obj/Debug/netcoreapp2.1/firstConsoleProjectSolution.AssemblyInfo.cs
+/Users/npetersen/Documents/c#/firstConsoleProject/firstConsoleProject/obj/Debug/netcoreapp2.1/firstConsoleProjectSolution.dll
+/Users/npetersen/Documents/c#/firstConsoleProject/firstConsoleProject/obj/Debug/netcoreapp2.1/firstConsoleProjectSolution.pdb
